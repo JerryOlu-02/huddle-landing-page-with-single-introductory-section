@@ -83,7 +83,7 @@ button:hover {
     
     .main-body {
         flex-direction: column;
-        gap: 100px;
+        gap: 70px;
     }
 
     .body-text {
