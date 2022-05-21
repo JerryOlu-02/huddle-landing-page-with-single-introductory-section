@@ -83,8 +83,9 @@ button:hover {
     
     .main-body {
         flex-direction: column;
-        gap: 70px;
-    }
+        gap: 40px;
+    } 
+
 
     .body-text {
         width: 100%;
@@ -98,6 +99,10 @@ button:hover {
 
     .footer-logo {
         align-self: center;
+    }
+
+    h1{
+        font-size: 20px;
     }
 }
 
