@@ -85,8 +85,16 @@ button:hover {
         width: 20%;
     }
 
-    h2 {
-        font-size: medium;
+    h1 {
+        font-size: 20px;
+    }
+    
+    button {
+        width: 50%;
+    }
+    
+    body {
+        background-image: url(../images/bg-mobile.svg);
     }
     
     .main-body {
