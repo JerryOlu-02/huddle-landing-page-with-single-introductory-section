@@ -51,8 +51,8 @@ p {
 }
 
 button {
-    width: 40%;
-    height: 5vh;
+    width: 50%;
+    height: 2.5rem;
     color: hsl(257, 40%, 49%);
     background-color: #fff;
     border-style: none;
@@ -91,6 +91,7 @@ button:hover {
     
     button {
         width: 50%;
+        height: 2rem;
     }
     
     body {
